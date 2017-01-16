@@ -10,11 +10,11 @@ Projects of Noogen union
   Directory: smalltricks-webapp
   Private project
 
-- Todo
+- Todo - the issue tracking console tool
   Directory: todo
   Repository: https://github.com/todo-projects/todo
 
-- Phalconer
+- Phalconer - the high-performance high-level web framework based on Phalcon
   Directory: phalconer
   Repository: https://github.com/phalconer-projects/phalconer
 

@@ -10,11 +10,11 @@
   Директория: smalltricks-webapp
   Закрытый проект
 
-- Todo
+- Todo - консольный инструмент управления задачами
   Директория: todo
   Репозиторий: https://github.com/todo-projects/todo
 
-- Phalconer
+- Phalconer - высокопроизводительный веб-фреймворк высокого уровня, основанный на Phalcon
   Директория: phalconer
   Репозиторий: https://github.com/phalconer-projects/phalconer
 
