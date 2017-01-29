@@ -21,3 +21,8 @@
 - Easyboot - Bootstrap-конфиги легковесного, минималистичного и простого UI-стиля
   Директория: easyboot
   Репозиторий: https://github.com/noogen-projects/easyboot
+
+- FlexAP - гибкая панель администрирования базы данных
+  Директория: flexap
+  Репозиторий: https://github.com/flexap
+

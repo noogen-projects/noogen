@@ -21,3 +21,8 @@ Projects of Noogen union
 - Easyboot - the Bootstrap configs for light, minimalist and simple UI style
   Directory: easyboot
   Repository: https://github.com/noogen-projects/easyboot
+
+- FlexAP - the Flexible DB Administration Panel
+  Directory: flexap
+  Repository: https://github.com/flexap
+
