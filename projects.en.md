@@ -10,6 +10,10 @@ Projects of Noogen union
   Directory: smalltricks-webapp
   Private project
 
+- Show donations service
+  Directory: showdonation
+  Private project
+
 - Todo - the issue tracking console tool
   Directory: todo
   Repository: https://github.com/todo-projects/todo

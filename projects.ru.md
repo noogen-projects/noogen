@@ -10,6 +10,10 @@
   Директория: smalltricks-webapp
   Закрытый проект
 
+- Showdonation - Сервис отображения пожертвований
+  Директория: showdonation
+  Закрытый проект
+
 - Todo - консольный инструмент управления задачами
   Директория: todo
   Репозиторий: https://github.com/todo-projects/todo
