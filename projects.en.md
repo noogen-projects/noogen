@@ -6,6 +6,10 @@ Projects of Noogen union
   Directory: it-outsourcing
   Private project
 
+- Small Tricks Software
+  Directory: smalltricks
+  Private project
+
 - Small Tricks Web Application
   Directory: smalltricks-webapp
   Private project

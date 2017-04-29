@@ -6,6 +6,10 @@
   Директория: it-outsourcing
   Закрытый проект 
 
+- Программное обеспечение проекта Small Tricks
+  Директория: smalltricks
+  Закрытый проект
+
 - Small Tricks Web Application
   Директория: smalltricks-webapp
   Закрытый проект
